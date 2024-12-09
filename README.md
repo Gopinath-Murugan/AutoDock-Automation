@@ -65,10 +65,6 @@ Follow these steps to set up your environment and prepare for running the script
 - Modify the script to adjust parameters (e.g., grid size) as needed for your specific docking experiments.
 - For any issues or questions, refer to the official AutoDock and MGLTools documentation.
 
-## Acknowledgment
-
-If you are using this script for your studies, kindly acknowledge us in your publications or research. We appreciate your support!
-
 ## Example Run
 
 This repository includes example files for reference:
@@ -78,3 +74,16 @@ This repository includes example files for reference:
 - Python preparation scripts
 
 You can use these files to test the script and understand its workflow.
+
+## Citation
+
+If you are using this script for your studies, kindly acknowledge the use of Open Babel as per its citation guidelines and mention my GitHub repository:
+
+Morris, Garrett M., et al. "AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility." Journal of computational chemistry 30.16 (2009): 2785-2791. https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.21256
+
+For the latest version of this script and updates, visit my GitHub repository:
+https://github.com/Gopinath-Murugan/AutoDock-Automation
+
+Mentioning this repository in your publications or research would be greatly appreciated.
+
+We appreciate your support!
