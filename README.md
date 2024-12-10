@@ -77,7 +77,7 @@ You can use these files to test the script and understand its workflow.
 
 ## Citation
 
-If you are using this script for your studies, kindly acknowledge the use of Open Babel as per its citation guidelines and mention my GitHub repository:
+If you are using this script for your studies, kindly acknowledge the use of AutoDock4 as per its citation guidelines and mention my GitHub repository:
 
 Morris, Garrett M., et al. "AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility." Journal of computational chemistry 30.16 (2009): 2785-2791. https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.21256
 
